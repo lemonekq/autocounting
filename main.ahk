@@ -1,4 +1,4 @@
-; Botter v.1.0 by lemonek
+; AutoNumerowanie v.1.0 by lemonek
 ; Basic msgboxy, opis programu i poradnik jak odpalic bota
 MsgBox, cntrl + j aby odpalic bota
 MsgBox, ppm/exit-(trayicon) aby wyjsc
