@@ -1,6 +1,6 @@
 ; English version of counting macro
-MsgBox, cntrl + j aby odpalic bota
-MsgBox, ppm/exit-(trayicon) aby wyjsc
+MsgBox, press cntrl + j to run the macro
+MsgBox, ppm/exit-(trayicon) to exit
 
 ; \/ ----------- \/
 ; type with delay
